@@ -1,2 +1,3 @@
 # bookbot
-A Python bookbot to retrieve information about books!
+My Python bookbot to retrieve information about books!
+
